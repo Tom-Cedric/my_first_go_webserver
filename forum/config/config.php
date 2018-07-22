@@ -14,11 +14,10 @@ $s_site_author        = "Tom Cedric Gottschlich";
 $s_site_description   = "Is a small forum, which is simple and needs to be expanded every now and then.";
 $s_site_version       = "0.0.1";
 
-//TODO: Create database!
 //MySQL database settings:
 $s_mysql_host         = "127.0.0.1";
 $s_mysql_username     = "root";
-$s_mysql_database     = "";
+$s_mysql_database     = "forum";
 $s_mysql_password     = "";
 
 //database connecten:

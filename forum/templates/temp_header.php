@@ -21,7 +21,7 @@ require_once("config/config.php");
                 <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="?site=temp_forum">Foren</a>
+                <a class="nav-link" href="?site=forum_sites/forums">Foren</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="?site=chats">Chat</a>
